@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="question_text">Costantinopoli è la più grande città della Turchia</string>
+    <string name="true_button">Vero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">Corretto!</string>
+    <string name="incorrect_toast">Sbagliato!</string>
+    <string name="action_settings">Settings</string>
+</resources>
